@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\学习\软工\编程\复习\01\源.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\应用程序\vc2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+  01.vcxproj -> C:\学习\软工\编程\复习\Debug\01.exe
